@@ -1,0 +1,32 @@
+.trie-match {
+    color: #64938D;
+}
+.trie-not-match {
+    color: #e0735e;
+}
+
+.list-group-item {
+    padding-left: 2em !important;
+}
+
+.trie-color-0 {
+    background-color: #f1f1f1 !important;
+}
+
+.trie-color-1 {
+    background-color: #3E687E !important;
+    background-color: #f8f8f8 !important;
+}
+
+.trie-color-2 {
+    background-color: #fcfcfc !important;
+}
+
+.load-group {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.lexicon-input-form {
+    text-align:center;
+}
